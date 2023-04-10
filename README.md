@@ -10,15 +10,15 @@
 - [Tec.Sup. Gonzalo Vera](https://github.com/Gona79)
 
 ## Integrantes:
-
+## Modelado y Control de Sistemas:
 - [Carolina Nis](https://github.com/Mayte2008)
 
 - [Fernando Vexenat](https://github.com/fvexe82)
-
-- [Emilio Moyano](https://github.com/TerraWolf)
-
+## Electronica y Circuitos (PO):
+- [Emilio Moyano](https://github.com/TerraWolf) 
+## Scrum Master:
 - [Máximo Santillan](htps://github.com/maxii-sc)
-
+## Programacion:
 - [Juan Carlos Narvaez](https://github.com/programadorpegasus)
 
 - [xxxxxxxx](https://github.com/)
