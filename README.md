@@ -17,9 +17,9 @@
 
 - [Emilio Moyano](https://github.com/TerraWolf)
 
-- [Maxi](htps://github.com/maxii-sc)
+- [Máximo Santillan](htps://github.com/maxii-sc)
 
-- [XXXXXXXX](https://github.com/)
+- [Juan Carlos Narvaez](https://github.com/programadorpegasus)
 
 - [xxxxxxxx](https://github.com/)
 
