@@ -21,7 +21,7 @@
 ## Programacion:
 - [Juan Carlos Narvaez](https://github.com/programadorpegasus)
 
-- [xxxxxxxx](https://github.com/)
+- [Alejandro Leyton Segovia](https://github.com/leytonale)
 
 
 ## El Repositorio cuenta con Carpetas donde se desarrolla el Proyecto solicitado.
