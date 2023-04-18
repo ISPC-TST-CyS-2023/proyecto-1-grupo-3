@@ -18,7 +18,7 @@
 - [Emilio Moyano](https://github.com/TerraWolf) 
 - [William Leyton Segovia](https://github.com/Wleyton89) 
 ## Scrum Master:
-- [Máximo Santillan](htps://github.com/maxii-sc)
+- [Maximo Santillan](htps://github.com/maxii-sc)
 ## Programacion:
 - [Juan Carlos Narvaez](https://github.com/programadorpegasus)
 
