@@ -4,14 +4,19 @@
 
 ## REFERENCIAS DE CONSULTA
 
-## Ques es y como funciona PID
+## Que es y como funciona PID
 https://www.vaillant.es/usuarios/servicios/glosario/regulador-de-temperatura/#:~:text=El%20regulador%20de%20temperatura%20compara,actuador%20del%20regulador%20de%20temperatura.
+
 https://controlreal.com/es/pid-como-sintonizar-un-lazo-pid/
+
 https://controlautomaticoeducacion.com/arduino/control-pid-de-temperatura-con-arduino/
+
 https://www.picuino.com/es/control-pid.html
+
 https://www.omch.co/es/pid-temperature-controller/
 
 ## PID implementado con LM35
 https://www.instructables.com/Control-De-Temperatura-Con-Lm35-Y-Arduino/
+
 http://www.jopapa.me/PID.html
 
