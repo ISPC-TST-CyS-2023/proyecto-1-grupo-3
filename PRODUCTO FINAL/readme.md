@@ -1,1 +1,11 @@
+# SISTEMA DE CONTROL INTELIGENTE DE TEMPERATURA
+## Descripción - Guía rápida - Video de demostración
 
+## DESCRIPCION
+AGREGAR
+
+## GUIA RAPIDA
+[GUIA DE USUARIO.pdf](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-1-grupo-3/files/11362497/GUIA.DE.USUARIO.pdf)
+
+## VIDEO DE DEMOSTRACION
+AGREGAR
