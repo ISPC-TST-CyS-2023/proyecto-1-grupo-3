@@ -1,4 +1,7 @@
 # SISTEMA DE CONTROL INTELIGENTE DE TEMPERATURA
+![CONTROLFOTO](https://user-images.githubusercontent.com/106171748/235378601-2abf9dad-2a6b-4c45-ba3d-3fb06c842975.jpg)
+
+
 ## Descripción - Guía rápida - Video de demostración
 
 ## DESCRIPCION
