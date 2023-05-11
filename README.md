@@ -1,4 +1,33 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/pVmkMH6A)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10769023&assignment_repo_type=AssignmentRepo)
+![Logo Tecnicatuta Superior en Telecomunicaciones](https://user-images.githubusercontent.com/106171748/230782243-faf43c16-1aa6-4941-bc7d-67475a0ed2c8.png)
+# Grupo 3
+
+### Grupo para el desarrollo de Proyecto#1 de la materia Control de Gestión y Servicios
+
+## Docente:
+
+- [Tec.Sup. Gonzalo Vera](https://github.com/Gona79)
+
+## Integrantes:
+## Modelado y Control de Sistemas:
+- [Carolina Nis](https://github.com/Mayte2008)
+
+- [Fernando Vexenat](https://github.com/fvexe82)
+## Electronica y Circuitos (PO):
+- [Emilio Moyano](https://github.com/TerraWolf) 
+- [William Leyton Segovia](https://github.com/Wleyton89) 
+## Scrum Master:
+- [Maximo Santillan](htps://github.com/maxii-sc)
+## Programacion:
+- [Juan Carlos Narvaez](https://github.com/programadorpegasus)
+
+- [Alejandro Leyton Segovia](https://github.com/leytonale)
+
+
+## El Repositorio cuenta con Carpetas donde se desarrolla el Proyecto solicitado.
+
+
 # Proyecto #1  
 
 Diseño y simulación de un sistema de control de temperatura para una casa inteligente, la cual tiene un sistema de administración general. 
